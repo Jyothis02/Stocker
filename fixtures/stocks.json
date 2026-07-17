@@ -1,0 +1,74 @@
+[
+  {
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "price": 248.50,
+    "change": 5.20,
+    "changePercent": 2.14,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png",
+    "description": "Tesla, Inc. designs, develops, manufactures, sells, and leases fully electric vehicles, energy generation and storage systems, and offers services related to its products."
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "price": 189.84,
+    "change": -1.25,
+    "changePercent": -0.65,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+    "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide."
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "price": 374.07,
+    "change": 4.56,
+    "changePercent": 1.23,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+    "description": "Microsoft Corporation develops, licenses, and supports software, services, devices, and solutions worldwide."
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "price": 145.24,
+    "change": 1.12,
+    "changePercent": 0.78,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "description": "Amazon.com, Inc. engages in the retail sale of consumer products and subscriptions in North America and internationally."
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc.",
+    "price": 138.21,
+    "change": -0.85,
+    "changePercent": -0.61,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+    "description": "Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America."
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms, Inc.",
+    "price": 326.50,
+    "change": -4.20,
+    "changePercent": -1.27,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg",
+    "description": "Meta Platforms, Inc. focuses on building products that enable people to connect and share through mobile devices, personal computers, virtual reality headsets, and wearables worldwide."
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix, Inc.",
+    "price": 472.00,
+    "change": 10.45,
+    "changePercent": 2.26,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "description": "Netflix, Inc. provides entertainment services with paid memberships in approximately 190 countries."
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "price": 485.50,
+    "change": 15.80,
+    "changePercent": 3.36,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg",
+    "description": "NVIDIA Corporation focuses on personal computer graphics, graphics processing units, and also on artificial intelligence solutions."
+  }
+]

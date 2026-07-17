@@ -1,0 +1,45 @@
+{
+  "version": "1.0.0",
+  "widgets": [
+    {
+      "uri": "/stock-cards",
+      "name": "Stock Cards",
+      "description": "Displays a grid of stock cards with tickers, prices, logos, and changes",
+      "examples": [
+        {
+          "name": "Stock Grid Example",
+          "description": "Shows details for Tesla, Apple, and Microsoft",
+          "data": {
+            "stocks": [
+              {
+                "ticker": "TSLA",
+                "name": "Tesla, Inc.",
+                "price": 248.50,
+                "change": 5.20,
+                "changePercent": 2.14,
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png",
+                "description": "Tesla, Inc. designs, develops, manufactures, sells, and leases fully electric vehicles..."
+              },
+              {
+                "ticker": "AAPL",
+                "name": "Apple Inc.",
+                "price": 189.84,
+                "change": -1.25,
+                "changePercent": -0.65,
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+                "description": "Apple Inc. designs, manufactures, and markets smartphones..."
+              }
+            ]
+          }
+        }
+      ],
+      "tags": [
+        "stocks",
+        "finance",
+        "watchlist",
+        "discover"
+      ]
+    }
+  ],
+  "generatedAt": "2026-07-17T00:00:00.000Z"
+}
